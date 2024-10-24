@@ -6,4 +6,4 @@ streamlit==1.2.0
 protobuf==3.20.3
 altair==4.2.0
 scikit-learn==1.5.2
-click==8.0.0
+click>=7.0,<8.0
